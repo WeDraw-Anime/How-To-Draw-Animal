@@ -28,90 +28,286 @@
   
   "Category": [
     {
-      "category_title": "Anime",
-      "category_preview": "https://zonekapp.com/AndroidStudio/Drawing/anime.png",
+      "category_title": "Flowers",
+      "category_preview": "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Flowers/main/Untitled-2.png",
       "category_list": [
         {
-          "name": "One Piece",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/one_piece_cover.png"
-        },
-        {
-          "name": "Naruto",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/naruto_cover.png"
-        }
-      ]
-    },
-    {
-      "category_title": "Poses",
-      "category_preview": "https://zonekapp.com/AndroidStudio/Drawing/poses.png",
-      "category_list": [
-        {
-          "name": "One Piece",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/one_piece_cover.png"
-        },
-        {
-          "name": "Naruto",
-          "cover": "https://zonekapp.com/AndroidStudio/Drawing/naruto_cover.png"
+          "name": "Flowers",
+          "cover": "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Flowers/main/Untitled-3.png"
         }
       ]
     }
   ],
-  "One Piece": [
+  "Animals": [
     {
-      "title": "San Jy",
-      "preview": "https://e7.pngegg.com/pngimages/997/382/png-clipart-vinsmoke-sanji-monkey-d-luffy-roronoa-zoro-one-piece-pirate-warriors-nami-one-piece-manga-fictional-character.png",
+      "title": "Animal 1",
+      "preview": "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items/q6.png",
       "locked": false,
       "steps": [
-        "luffy_1",
-        "luffy_2"
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items/q6.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items/q1.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items/q2.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items/q3.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items/q4.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items/q5.png"
       ]
     },
     {
-      "title": "Monkey D.Luffy",
-      "preview": "https://zonekapp.com/AndroidStudio/Drawing/luffy.png",
+      "title": "Animal 2",
+      "preview": "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%202/p6.png",
       "locked": true,
       "steps": [
-        "luffy_1",
-        "luffy_2"
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%202/p6.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%202/p1.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%202/p2.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%202/p3.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%202/p4.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%202/p5.png"
+        
       ]
     },
     {
-      "title": "Nami",
-      "preview": "https://zonekapp.com/AndroidStudio/Drawing/nami.png",
+      "title": "Animal 3",
+      "preview": "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%203/o6.png",
       "locked": false,
       "steps": [
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/1.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/2.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/3.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/4.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/5.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/6.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/7.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/8.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/9.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/11.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/12.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/13.png",
-        "https://zonekapp.com/AndroidStudio/Drawing/Nami/14.png"
-      ]
-    }
-  ],
-  "Naruto": [
-    {
-      "title": "Naruto",
-      "preview": "",
-      "steps": [
-        "nar_1",
-        "nar_2"
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%203/o6.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%203/o1.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%203/o2.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%203/o3.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%203/o4.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%203/o5.png"
       ]
     },
     {
-      "title": "Kakashi Hatake",
-      "preview": "",
+      "title": "Animal 4",
+      "preview": "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%204/n6.png",
+      "locked": true,
       "steps": [
-        "kak_1",
-        "kak_2"
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%204/n6.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%204/n1.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%204/n2.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%204/n3.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%204/n4.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%204/n5.png"
+     ]
+    },
+    {
+      "title": "Animal 5",
+      "preview": "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%205/m6.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%205/m6.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%205/m1.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%205/m2.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%205/m3.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%205/m4.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%205/m5.png"
       ]
-    }
+    },
+    {
+      "title": "Animal 6",
+      "preview": "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%206/l7.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%206/l7.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%206/l1.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%206/l2.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%206/l3.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%206/l4.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%206/l5.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%206/l6.png"
+      ]
+    },
+    {
+      "title": "Animal 7",
+      "preview": "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%207/k8.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%207/k8.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%207/k1.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%207/k2.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%207/k3.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%207/k4.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%207/k5.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%207/k6.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%207/k7.png"
+      ]
+    },
+    {
+      "title": "Animal 8",
+      "preview": "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%208/j10.jpg",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%208/j10.jpg",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%208/j1.jpg",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%208/j2.jpg",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%208/j3.jpg",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%208/j4.jpg",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%208/j5.jpg",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%208/j6.jpg",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%208/j7.jpg",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%208/j8.jpg",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%208/j9.jpg"
+      ]
+    },
+    {
+      "title": "Animal 9",
+      "preview": "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%209/i7.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%209/i7.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%209/i1.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%209/i2.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%209/i3.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%209/i4.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%209/i5.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%209/i6.png"
+      ]
+    },
+    {
+      "title": "Animal 10",
+      "preview": "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2010/h10.png",
+      "locked": false,
+      "steps": [
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2010/h10.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2010/h1.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2010/h2.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2010/h3.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2010/h4.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2010/h5.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2010/h6.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2010/h7.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2010/h8.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2010/h9.png"
+      ]
+    },
+    {
+      "title": "Animal 11",
+      "preview": "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2011/g9.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2011/g9.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2011/g1.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2011/g2.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2011/g3.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2011/g4.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2011/g5.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2011/g6.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2011/g7.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2011/g8.png"
+      ]
+    },
+    {
+      "title": "Animal 12",
+      "preview": "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2012/f10.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2012/f10.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2012/f1.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2012/f2.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2012/f3.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2012/f4.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2012/f5.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2012/f6.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2012/f7.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2012/f8.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2012/f9.png"
+        
+      ]
+    },
+    {
+      "title": "Animal 13",
+      "preview": "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2013/e14.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2013/e14.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2013/e1.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2013/e2.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2013/e3.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2013/e4.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2013/e5.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2013/e6.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2013/e7.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2013/e8.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2013/e9.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2013/e10.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2013/e11.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2013/e12.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2013/e13.png"
+       ]
+     },
+    {
+      "title": "Animal 14",
+      "preview": "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2014/d9.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2014/d9.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2014/d1.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2014/d2.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2014/d3.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2014/d4.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2014/d5.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2014/d6.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2014/d7.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2014/d8.png"
+        
+      ]
+      
+    },
+    {
+      "title": "Animal 15",
+      "preview": "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2015/c10.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2015/c10.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2015/c1.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2015/c2.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2015/c3.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2015/c4.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2015/c5.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2015/c6.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2015/c7.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2015/c8.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2015/c9.png"
+       ]
+      
+    },
+    {
+      "title": "Animal 16",
+      "preview": "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2016/b12.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2016/b12.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2016/b1.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2016/b2.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2016/b3.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2016/b4.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2016/b5.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2016/b6.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2016/b7.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2016/b8.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2016/b9.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2016/b10.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2016/b11.png"
+       ]
+      
+    },
+    {
+      "title": "Animal 17",
+      "preview": "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2017/a9.png",
+      "locked": true,
+      "steps": [
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2017/a9.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2017/a1.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2017/a2.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2017/a3.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2017/a4.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2017/a5.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2017/a6.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2017/a7.png",
+        "https://raw.githubusercontent.com/WeDraw-Anime/How-To-Draw-Animal/main/New%20Folder%20With%20Items%2017/a8.png"
+       ]
+    }   
   ]
 }
